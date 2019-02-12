@@ -13,6 +13,7 @@
 . 开发环境支持：hot reload
 . 任务管理器: npm scripts
 . 模块化：commonjs
+. 自动化兼容：babel+polyfill
 . 框架
     .. react
 
