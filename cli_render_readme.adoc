@@ -1,0 +1,26 @@
+= 脚手架说明
+
+== 功能
+
+. 语言选择: babel编译支持的es6语法
+. 代码检测工具: eslint(保证开发时有错误可以阻塞编码，及时发现问题及时处理)
+. 静态检查器: typescript
+. css预处理器: Less
+. 模块打包工具: webpack
+    .. css抽离
+    .. css命名空间保护
+    .. log 的处理，开发环境可以 console.log、alert 等，正式环境清除
+. 开发环境支持：hot reload
+. 任务管理器: npm scripts
+. 模块化：commonjs
+. 框架
+    .. react
+    .. spaui
+
+== 使用说明
+
+. npm 安装
+
+== 示例
+
+. 浏览器打开

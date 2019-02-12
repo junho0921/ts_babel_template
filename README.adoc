@@ -1,0 +1,32 @@
+= scenes_controller
+:toc: left
+:toclevels: 3
+:toc-title: 目录
+:numbered:
+:sectanchors:
+:sectlinks:
+:sectnums:
+
+== 介绍
+
+视频自动生成 -- 场景控制界面
+
+用于上传与删除lottie动画的场景
+
+== 安装依赖
+
+yarn install
+
+== 使用
+
+=== 开发
+
+yarn start
+
+=== 编译
+
+yarn build
+
+== 注意
+
+== 示例
