@@ -3,10 +3,10 @@ const presets = [
         "@babel/env",
         {
             targets: {
-                chrome: "10",
+                chrome: "10"
             },
-            useBuiltIns: "usage",
-        },
+            useBuiltIns: "usage"
+        }
     ],
     "@babel/typescript",
     "@babel/react"
