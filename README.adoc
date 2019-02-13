@@ -2,8 +2,13 @@
 
 == 功能
 
+. 目录合理
 . 构建工具 `webpack`
-. 开发环境支持 `hot reload`
+. 开发环境工具
+    .. `hot reload`
+    .. compiling process tips // todo
+    .. compile success tips // todo
+    .. 测试域名访问host提示 // todo
 . 任务管理器 `npm scripts`
 . 语言 `es6`
 . css
@@ -14,7 +19,8 @@
     .. `eslint` （有错误会阻塞编译，及时发现问题及时处理）
     .. `tslint` // todo
     .. `stylelint`  // todo
-. 代码风格自动化 `prettier`
+. 代码风格自动化配置 `prettier`
+. 代码提交检测 // todo
 . 渲染框架 `react`
 . 模块化 `esnext`
 . 浏览器兼容 `babel+polyfill`
@@ -24,8 +30,5 @@
 == 使用说明
 
 . 安装依赖 `npm install`
-. 开发
-    .. 执行 `npm run start`
-    .. 浏览器打开 `http://localhost:7777/`
-. 编译
-    .. 执行 `npm run build`
+. 开发 `npm run dev`
+. 编译 `npm run build`
